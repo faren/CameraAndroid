@@ -13,6 +13,6 @@ Requirement:
 
  
  
-![Alt text](screenshot/ss1.png) - - - ![Alt text](screenshot/ss2.png)
+![Alt text](screenshot/ss1.png)&nbsp;&nbsp;&nbsp;![Alt text](screenshot/ss2.png)
 
-![Alt text](screenshot/ss3.png) - - - ![Alt text](screenshot/ss4.png)
+![Alt text](screenshot/ss3.png)&nbsp;&nbsp;&nbsp;![Alt text](screenshot/ss4.png)
